@@ -1,6 +1,6 @@
 # Kenji Shop - AI Restaurant Assistant
 
-A modern Japanese restaurant website with an intelligent AI chatbot that automatically analyzes customer conversations and extracts order information. Built with vanilla JavaScript, Supabase, and OpenAI.
+modern Japanese restaurant website with an intelligent AI chatbot that automatically analyzes customer conversations and extracts order information. Built with vanilla JavaScript, Supabase, and OpenAI.
 
 ## 🍜 Features
 
